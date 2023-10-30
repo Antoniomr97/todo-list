@@ -9,7 +9,7 @@
     - [x] **Getting Started**
         - [x] **Prerequisites**
         - [x] **Installing**
-    - [ ] **Deployment**
-    - [ ] **Built With**
-    - [ ] **Authors**
-    - [ ] **License**
+    - [x] **Deployment**
+    - [x] **Built With**
+    - [x] **Authors**
+    - [x] **License**

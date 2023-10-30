@@ -8,7 +8,7 @@
     - [x] **Description**
     - [x] **Getting Started**
         - [x] **Prerequisites**
-        - [ ] **Installing**
+        - [x] **Installing**
     - [ ] **Deployment**
     - [ ] **Built With**
     - [ ] **Authors**

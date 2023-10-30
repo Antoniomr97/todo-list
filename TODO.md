@@ -5,8 +5,8 @@
 ## Making a good readme
 
 - [x] **Project title**
-    - [ ] **Description**
-    - [ ] **Getting Started**
+    - [x] **Description**
+    - [x] **Getting Started**
         - [ ] **Prerequisites**
         - [ ] **Installing**
     - [ ] **Deployment**

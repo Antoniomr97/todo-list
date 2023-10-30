@@ -7,7 +7,7 @@
 - [x] **Project title**
     - [x] **Description**
     - [x] **Getting Started**
-        - [ ] **Prerequisites**
+        - [x] **Prerequisites**
         - [ ] **Installing**
     - [ ] **Deployment**
     - [ ] **Built With**
